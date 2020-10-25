@@ -3,5 +3,5 @@
 1. buat file README.md lalu upload ke github
 1. buat akun github
 1. push direktori lokal ke github
-1. 
+1. ![scrrenshoot tutorial](/gambar/gambar.png)
 
